@@ -1,0 +1,5 @@
+{"encoder":
+{"enabled":1,
+"definition":[
+{"pin":[9,10],"step":4,"action":[["KC_LEFT","KC_RGHT"], ["KC_I","KC_J"], ["KC_K","KC_L"], ["KC_M","KC_N"], ["KC_O","KC_P"]]}
+]}}
