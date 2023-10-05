@@ -1,0 +1,13 @@
+{
+  "name": "stickey4",
+  "vendorId": "0x5946",
+  "productId": "0x0010",
+  "matrix": {"rows": 1, "cols": 4},
+  "layouts": {
+    "labels": [],
+    "keymap": [
+      [{"x": 0.5}, "\n\n\n\n\n\n\n\n\ne0", {"x": 1.00}, "\n\n\n\n\n\n\n\n\ne1"],
+      [{"y": 0.5}, "0,0", "0,1", "0,2", "0,3"]
+    ]
+  }
+}
